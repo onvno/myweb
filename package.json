@@ -1,0 +1,23 @@
+{
+  "name": "theweb",
+  "version": "1.0.0",
+  "description": "服务端创建博客系统",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onvno/theweb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onvno/theweb/issues"
+  },
+  "homepage": "https://github.com/onvno/theweb#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
